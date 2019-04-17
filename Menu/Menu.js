@@ -1,6 +1,7 @@
 
 const toggleMenu = () => {
   // Toggle the "menu--open" class on your menu reference. 
+  let hamburger = document.querySelectorAll('.menu--open');
   
 }
 
